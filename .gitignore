@@ -1,0 +1,12 @@
+# Ignore database files
+*.bak
+*.trn
+*.mdf
+*.ldf
+
+# Ignore temp and log files
+*.tmp
+*.log
+
+# Ignore VS Code settings
+.vscode/
